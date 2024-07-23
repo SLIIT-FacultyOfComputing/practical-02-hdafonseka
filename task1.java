@@ -14,7 +14,7 @@ public class  task1{
   
   StringBuilder sb=new StringBuilder();
    sb.append(sName);
-   sb.append(" ");
+   sb.append(",");
   sb.append(fName);
   sb.append(" ");
   sb.append(mName);
